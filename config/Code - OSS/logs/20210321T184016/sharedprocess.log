@@ -1,0 +1,14 @@
+[2021-03-21 18:40:58.048] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-03-21 18:40:58.053] [sharedprocess] [info] Skipping directory 1cbc3d1d810c483438acfa23452fdb2b.ru. Language pack still in use.
+[2021-03-21 18:46:52.883] [sharedprocess] [info] Installing extension: naumovs.color-highlight
+[2021-03-21 18:46:53.624] [sharedprocess] [info] Downloaded extension: naumovs.color-highlight undefined
+[2021-03-21 18:46:54.453] [sharedprocess] [info] Extracted extension to /home/dimas/.vscode-oss/extensions/.naumovs.color-highlight-2.3.0: naumovs.color-highlight
+[2021-03-21 18:46:54.454] [sharedprocess] [info] Renamed to /home/dimas/.vscode-oss/extensions/naumovs.color-highlight-2.3.0
+[2021-03-21 18:46:54.457] [sharedprocess] [info] Installation completed. naumovs.color-highlight
+[2021-03-21 18:46:54.481] [sharedprocess] [info] Extensions installed successfully: naumovs.color-highlight
+[2021-03-21 18:47:40.781] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer-2
+[2021-03-21 18:47:41.406] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer-2 undefined
+[2021-03-21 18:47:42.076] [sharedprocess] [info] Extracted extension to /home/dimas/.vscode-oss/extensions/.coenraads.bracket-pair-colorizer-2-0.2.0: coenraads.bracket-pair-colorizer-2
+[2021-03-21 18:47:42.077] [sharedprocess] [info] Renamed to /home/dimas/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.2.0
+[2021-03-21 18:47:42.085] [sharedprocess] [info] Installation completed. coenraads.bracket-pair-colorizer-2
+[2021-03-21 18:47:42.102] [sharedprocess] [info] Extensions installed successfully: coenraads.bracket-pair-colorizer-2
