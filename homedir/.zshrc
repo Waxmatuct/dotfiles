@@ -1,3 +1,5 @@
+# Use powerline
+USE_POWERLINE="true"
 # Source manjaro-zsh-configuration
 if [[ -e /usr/share/zsh/manjaro-zsh-config ]]; then
   source /usr/share/zsh/manjaro-zsh-config
@@ -70,8 +72,8 @@ alias branch='git branch'
 alias checkout='git checkout'
 alias commit='git commit -m'
 alias fetch='git fetch'
-alias pull='git pull -u origin'
-alias push='git push -u origin'
+alias pull='git pull origin'
+alias push='git push origin'
 alias status='git status'
 alias tag='git tag'
 alias newtag='git tag -a'
